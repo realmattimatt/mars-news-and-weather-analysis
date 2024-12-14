@@ -1,4 +1,4 @@
-# sqlalchemy-challenge
+# Mars News and Weather Analysis
 
 ## About
 
